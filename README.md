@@ -4,7 +4,7 @@ il s'agit site web Alô fô en gestion money Ariary
  <head> 
   <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>MarketHub - Votre Marketplace Multi-Vendeurs</title> 
+  <title>Alô fô - Votre Marketplace Multi-Vendeurs</title> 
   <meta name="description" content="Découvrez des milliers de produits de vendeurs vérifiés. Achetez en toute confiance avec notre système d'avis clients détaillés et notre garantie satisfaction."> 
   <meta name="keywords" content="marketplace, e-commerce, multi-vendeurs, shopping en ligne, avis clients, produits vérifiés"> 
   <!-- Open Graph / Facebook --> 
