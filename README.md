@@ -9,7 +9,8 @@ il s'agit site web Alô fô en gestion money Ariary
   <meta name="keywords" content="marketplace, e-commerce, multi-vendeurs, shopping en ligne, avis clients, produits vérifiés"> 
   <!-- Open Graph / Facebook --> 
   <meta property="og:type" content="website"> 
-  <meta property="og:url" content="https://www.onspace.ai"> 
+  <meta property="og:url" content="https://github.com
+joharkaede-rgb/AI-f-MG.git"> 
   <meta property="og:title" content="MarketHub - Votre Marketplace Multi-Vendeurs"> 
   <meta property="og:description" content="Découvrez des milliers de produits de vendeurs vérifiés. Achetez en toute confiance avec notre système d'avis clients détaillés et notre garantie satisfaction."> 
   <meta property="og:image" content="https://cdn-ai.onspace.ai/onspace/project/screenshot/online/pre-site/9b4xxh.jpg"> 
