@@ -1,5 +1,7 @@
 # Al-f-MG
 il s'agit site web Alô fô en gestion money Ariary 
+#/usr/bin/env bash
+set -e
 REPO_URL="https://github.com
 joharkaede-rgb/AI-f--ar.git"
 TMP_DIR="alofo-scaffold-temp"
