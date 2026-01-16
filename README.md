@@ -20,7 +20,8 @@ joharkaede-rgb/AI-f-MG.git">
   <meta property="og:locale" content="fr_FR"> 
   <!-- Twitter Card --> 
   <meta name="twitter:card" content="summary_large_image"> 
-  <meta name="twitter:url" content="https://www.onspace.ai"> 
+  <meta name="twitter:url" content="https://github.com
+joharkaede-rgb/AI-f-MG.git"> 
   <meta name="twitter:title" content="MarketHub - Votre Marketplace Multi-Vendeurs"> 
   <meta name="twitter:description" content="Découvrez des milliers de produits de vendeurs vérifiés. Achetez en toute confiance avec notre système d'avis clients détaillés et notre garantie satisfaction."> 
   <meta name="twitter:image" content="https://cdn-ai.onspace.ai/onspace/project/screenshot/online/pre-site/9b4xxh.jpg"> 
