@@ -10,7 +10,7 @@ il s'agit site web Alô fô en gestion money Ariary
   <!-- Open Graph / Facebook --> 
   <meta property="og:type" content="website"> 
   <meta property="og:url" content="https://github.com
-joharkaede-rgb/AI-f-MG.git"> 
+joharkaede-rgb/Al-f-MG.git"> 
   <meta property="og:title" content="Alô fô - Votre Marketplace Multi-Vendeurs"> 
   <meta property="og:description" content="Découvrez des milliers de produits de vendeurs vérifiés. Achetez en toute confiance avec notre système d'avis clients détaillés et notre garantie satisfaction."> 
   <meta property="og:image" content="https://cdn-ai.onspace.ai/onspace/project/screenshot/online/pre-site/9b4xxh.jpg"> 
@@ -21,8 +21,8 @@ joharkaede-rgb/AI-f-MG.git">
   <!-- Twitter Card --> 
   <meta name="twitter:card" content="summary_large_image"> 
   <meta name="twitter:url" content="https://github.com
-joharkaede-rgb/AI-f-MG.git"> 
-  <meta name="twitter:title" content="MarketHub - Votre Marketplace Multi-Vendeurs"> 
+joharkaede-rgb/Al-f-MG.git"> 
+  <meta name="twitter:title" content="Alô fô - Votre Marketplace Multi-Vendeurs"> 
   <meta name="twitter:description" content="Découvrez des milliers de produits de vendeurs vérifiés. Achetez en toute confiance avec notre système d'avis clients détaillés et notre garantie satisfaction."> 
   <meta name="twitter:image" content="https://cdn-ai.onspace.ai/onspace/project/screenshot/online/pre-site/9b4xxh.jpg"> 
   <!-- Schema.org JSON-LD --> 
